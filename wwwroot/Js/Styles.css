@@ -1,0 +1,55 @@
+﻿
+
+/* css/whatsapp-style.css */
+
+/*body {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20 auto;
+}
+
+.chat-container {
+    background-color: #f0f0f0;*/ /* Fondo del área de chat */
+    /*border-radius: 8px;
+    overflow-y: scroll;
+    max-height: 300px;
+    padding: 10px;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+    .message .user {
+        font-weight: bold;
+        color: #075e54;*/ /* Color del nombre de usuario en WhatsApp */
+    /*}
+
+    .message .text {
+        background-color: #e4ffc7;*/ /* Color de fondo del mensaje */
+        /*padding: 8px;
+        border-radius: 10px;
+        display: inline-block;
+    }
+
+    .message.sent .text {
+        background-color: #dcf8c6;*/ /* Color de fondo del mensaje enviado */
+    /*}
+
+.input-group {
+    margin-top: 10px;
+}
+
+    .input-group input {
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        padding: 8px;
+    }
+
+    .input-group button {
+        border-radius: 5px;
+        margin-left: 5px;
+    }*/
